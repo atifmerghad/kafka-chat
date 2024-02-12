@@ -1,0 +1,14 @@
+.DS_Store
+kafka-chat-fe/node_modules
+kafka-chat-fe/package-lock.json
+kafka-chat-fe/.vscode
+kafka-chat-fe/.env
+kafka-chat-fe/build
+kafka-chat-fe/android
+kafka-chat-fe/ios
+
+kafka-chat-be/.idea
+kafka-chat-be/.mvn
+kafka-chat-be/target
+
+
